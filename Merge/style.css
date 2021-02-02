@@ -1,0 +1,38 @@
+
+
+
+body{
+    background-image:url("D:/Merge/bck.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    text-align:center;
+
+}
+
+hr{
+    width:670px;
+    color:rgb(83, 118, 221);
+}
+
+.container{
+     
+    width:700px;
+    margin: 0 auto;
+    padding:10px;
+    
+}
+
+.Main{
+    background:rgb(87, 112, 224);
+}
+    
+
+
+.centre{
+    padding:100px;
+    margin: 0 auto;
+
+}
